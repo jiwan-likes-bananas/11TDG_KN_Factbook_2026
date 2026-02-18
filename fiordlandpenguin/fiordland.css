@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(240, 230, 223);
+}
+
+h1{
+    color: rgb(57, 41, 34);
+    text-align: center;
+}
+
+p {
+    color:rgb(57, 41, 34);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-left:max(15px, 5%);
+    padding-right:max(15px, 5%);
+    box-sizing: border-box;
+    margin: 50px;
+
+
+    
+}
+
+ .food {
+     color:rgb(57, 41, 34);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+  
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.penguinimgs{
+    justify-content: center;
+    display: flex;
+    
+}
+
+img {
+    max-width: 200px;
+    border: 5px rgb(55, 38, 34) solid;
+}
+
+hr {
+ width: 10px;
+ color: rgb(57, 41, 34); ;
+}
+
+
+button {
+    background-color:rgb(55, 38, 34) ;
+}
+
+a {
+    color: rgb(240, 230, 223);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.home {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
