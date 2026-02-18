@@ -1,0 +1,22 @@
+.Kapapo_sticker {
+    width: 300px;
+    height: 300px;
+  border-radius: 50%;
+}
+.Kapapo_stare {
+    width: 350px;
+    height: 300px;
+  border-radius: 50%;
+}
+.flex-container {
+  display: flex;
+}
+.flex-container div {
+  
+  margin: 10px;
+  padding: 30px;
+  font-size: 30px;
+}
+.history div {
+  font-size: medium;
+}
